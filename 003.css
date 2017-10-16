@@ -1,0 +1,22 @@
+div {
+    margin: 0;
+    height: 100px;
+    width: 500px;
+}
+
+.black {
+
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.gold {
+    background-color: #ffd700;
+}
+
+body {
+    margin: 0;
+}

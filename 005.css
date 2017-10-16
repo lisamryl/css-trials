@@ -1,0 +1,12 @@
+div {
+    margin: 25px;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+}
+
+body {
+
+    margin: 25px;
+}
