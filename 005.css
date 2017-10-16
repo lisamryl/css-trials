@@ -1,5 +1,6 @@
-div {
-    margin: 25px;
+.square {
+    margin-top: 50px;
+    margin-left: 50px;
     height: 100px;
     width: 100px;
     background-color: black;
@@ -8,5 +9,21 @@ div {
 
 body {
 
-    margin: 25px;
+    margin: 0;
+}
+
+#blue {
+
+    background-color: blue;
+}
+
+#red {
+
+    background-color: red;
+}
+
+.rectangle {
+    margin: 0;
+    height: 200px;
+    width: 350px;
 }
